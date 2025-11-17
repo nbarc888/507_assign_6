@@ -9,7 +9,7 @@ Screenshot of Profile and badges:
 ![screenshot 3](images/datastorytelling.PNG)
 
 
-### Dataset Information
+# Tableau Dashboard and Dataset Information
 
 Dataset used for exercise: https://www.kaggle.com/datasets/rounakbanik/pokemon/data 
 
