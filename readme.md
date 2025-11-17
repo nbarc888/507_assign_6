@@ -19,7 +19,7 @@ Data source for kaggle dataset: https://serebii.net/
 
 
 
-![gif of one of my personal favorite Pokemon Venipede](images/venipede gif.gif)
+![gif of one of my personal favorite Pokemon Venipede](images/venipede.gif)
 
 Reason for evaluation of dataset: 
 
