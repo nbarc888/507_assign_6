@@ -17,6 +17,10 @@ Further information regarding pokemon: https://en.wikipedia.org/wiki/Pok%C3%A9mo
 
 Data source for kaggle dataset: https://serebii.net/ 
 
+
+
+![gif of one of my personal favorite Pokemon Venipede](images/venipede gif.gif)
+
 Reason for evaluation of dataset: 
 
 Pokemon is one of the largest grossing media franchises globally with an estimated worth of over 110 Billion USD across its revenue in merchandise, games, and other media. Recent release of Pokemon Legends: ZA has an estimated sale of 5 million copies globally within first week of release. The Pokemon Trading Card Game has also gained popularity within this past year with estimated 1.3 billion USD in revenue for TCG Pocket app as of October 2025.  Due to recent release of this title and current popularity of the trading card game, there has been a recurrence of interest in the pokemon.  Along with this recurrence of popularity, comes with increased inquiry regarding the original games that the recent release of both Pokemon Legends: ZA and Pokemon TCG set "Mega Evolutions" are based on.
