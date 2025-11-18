@@ -53,4 +53,4 @@ However, something to note is that Dragon-types are still not completely invulne
 
 For example:
 Se Jun Park, the champion of the 2014 Pokémon World Championships, had used Pachirisu to win. 
-<img src="images/Pachirisu.gif" alt="pachirisu the goat" width="50%">
+<img src="images/Pachirisu.gif" alt="pachirisu the goat" width="25%">
