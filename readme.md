@@ -46,11 +46,11 @@ Based on Data exploration, despite the balancing changes made in generations 6 a
 
 Despite the addition of Fairy-types, there have not been enough modifications to warrant Fairy-type to be a viable threat to Dragon-type supremacy. Fairy-types also have a lower average base stat compared to Ice-types. Fairy types also suffer from having the lowest average base speed stats compared to other types. Also due to the introduction of Mega evolution, it even further weakens the viability of Fairy-type by providing further reinforcements to Steel-type pokemon such as Metagross.
 
-![garchomp](images/garchomp.gif)  ![salamence](images/salamence.gif)
+![salamence](images/salamence.gif)
 
 
 However, something to note is that Dragon-types are still not completely invulnerable and stats are not everything and there is a more complex system outside of stat distribution and type advantages. 
 
 For example:
 Se Jun Park, the champion of the 2014 Pokémon World Championships, had used Pachirisu to win. 
-![pachirisu the goat](images/Pachirisu.gif)
+<img src="images/Pachirisu.gif" alt="pachirisu the goat" width="50%">
