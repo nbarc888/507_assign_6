@@ -27,6 +27,8 @@ Tableau: https://public.tableau.com/views/507_assign6/Dashboard2?:language=en-US
 
 ![gif of one of my personal favorite Pokemon Venipede](images/venipede.gif)
 
+![tableau](images/tableau.PNG)
+
 # Short written reflection.
 
 - **Data Storytelling:**  
